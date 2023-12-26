@@ -1,0 +1,8 @@
+export enum CurrencyEnum {
+  PEN = 'PEN',
+  USD = 'USD',
+  EURO = 'EURO',
+  CHILEAN_PESO = 'CHILEAN_PESO',
+  MEXICAN_PESO = 'MEXICAN_PESO',
+  ARGENTINIAN_PESO = 'ARGENTINIAN_PESO',
+}
